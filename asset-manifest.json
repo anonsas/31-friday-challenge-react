@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/31-friday-challenge-react/static/css/main.6a53a199.css",
+    "main.js": "/31-friday-challenge-react/static/js/main.fc2e3ea6.js",
+    "static/js/787.37dc3ccf.chunk.js": "/31-friday-challenge-react/static/js/787.37dc3ccf.chunk.js",
+    "static/media/bg.svg": "/31-friday-challenge-react/static/media/bg.35157e0025565416b643.svg",
+    "index.html": "/31-friday-challenge-react/index.html",
+    "static/media/ArrowDown.svg": "/31-friday-challenge-react/static/media/ArrowDown.f97a5bb15e7a3bb129270172b8cfa053.svg",
+    "main.6a53a199.css.map": "/31-friday-challenge-react/static/css/main.6a53a199.css.map",
+    "main.fc2e3ea6.js.map": "/31-friday-challenge-react/static/js/main.fc2e3ea6.js.map",
+    "787.37dc3ccf.chunk.js.map": "/31-friday-challenge-react/static/js/787.37dc3ccf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a53a199.css",
+    "static/js/main.fc2e3ea6.js"
+  ]
+}
